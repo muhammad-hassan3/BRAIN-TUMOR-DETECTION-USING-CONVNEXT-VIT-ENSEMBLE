@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+Training/
+Testing/
+*.pth
+.ipynb_checkpoints/
